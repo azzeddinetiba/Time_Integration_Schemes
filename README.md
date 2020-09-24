@@ -28,6 +28,6 @@ ENJOY !
 
 
 
-[product-screenshot]: GUI_screen.PNG
+[product-screenshot]: GUI_Screen.PNG
 
 
